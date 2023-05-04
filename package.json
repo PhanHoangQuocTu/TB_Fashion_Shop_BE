@@ -1,0 +1,25 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "description": "Tu Beo Fashion Shop Back end",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhanHoangQuocTu/TB_Fashion_Shop_BE.git"
+  },
+  "author": "Phan Hoang Quoc Tu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhanHoangQuocTu/TB_Fashion_Shop_BE/issues"
+  },
+  "homepage": "https://github.com/PhanHoangQuocTu/TB_Fashion_Shop_BE#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
